@@ -1,0 +1,64 @@
+# robots.txt - Magnates Empire
+# https://magnatesempire.com/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /api/
+Disallow: /private/
+
+# Crawl rate
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://magnatesempire.com/sitemap.xml
+
+# Googlebot specific
+User-agent: Googlebot
+Allow: /
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.gif$
+Allow: /*.svg$
+Disallow: /admin/
+
+# Bingbot specific
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+
+# Allow images and media
+User-agent: Googlebot-Image
+Allow: /images/
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.png$
+Allow: /*.svg$
+Allow: /*.webp$
+
+# Allow video
+User-agent: Googlebot-Video
+Allow: /videos/
+Allow: /*.mp4$
+Allow: /*.webm$
+
+# AI Crawlers - Answer Engine Optimization
+User-agent: ChatGPT-User
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: Applebot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /

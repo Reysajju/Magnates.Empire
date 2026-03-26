@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://magnatesempire.com</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://magnatesempire.com/images/hero-bottle.png</image:loc>
+      <image:title>Magnates Empire Luxury Perfume</image:title>
+      <image:caption>Imperial Oud - The flagship fragrance from Magnates Empire</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://magnatesempire.com/og-image.jpg</image:loc>
+      <image:title>Magnates Empire Collection</image:title>
+      <image:caption>Luxury perfume collection crafted in Grasse since 1892</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Heritage Section (About) -->
+  <url>
+    <loc>https://magnatesempire.com#about</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://magnatesempire.com/images/gallery-1.jpg</image:loc>
+      <image:title>Magnates Empire Atelier in Grasse</image:title>
+      <image:caption>Our historic atelier where fragrances have been crafted since 1892</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Collection Section -->
+  <url>
+    <loc>https://magnatesempire.com#collections</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://magnatesempire.com/images/collection-1.jpg</image:loc>
+      <image:title>Imperial Oud Fragrance</image:title>
+      <image:caption>A majestic blend of aged oud wood and precious saffron</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://magnatesempire.com/images/collection-2.jpg</image:loc>
+      <image:title>Amber Noir Fragrance</image:title>
+      <image:caption>Dark amber and velvety rose symphony</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://magnatesempire.com/images/collection-3.jpg</image:loc>
+      <image:title>Sandalwood Reserve Fragrance</image:title>
+      <image:caption>Rare Mysore sandalwood composition</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://magnatesempire.com/images/collection-4.jpg</image:loc>
+      <image:title>Velvet Vanilla Fragrance</image:title>
+      <image:caption>Madagascar vanilla with golden honey</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Experience Section (Visit) -->
+  <url>
+    <loc>https://magnatesempire.com#visit</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact Section -->
+  <url>
+    <loc>https://magnatesempire.com#footer</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
